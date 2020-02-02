@@ -27,6 +27,7 @@ compton
 xclip
 peek
 i3lock
+ranger (from github)
 ```
 
 I will maybe add more things later.
@@ -36,3 +37,7 @@ I will maybe add more things later.
 1) Complete config files
 2) Installation script
 3) Parameters for installation, e.g. install deps or not.
+
+## Polybar
+
+I'm testing out polybar, just using the vanillar installation for now.I just compiled it from source and it mostly works. The only issue was symbols/glyphs not appearing. I followed the instructions on the [wiki](https://github.com/polybar/polybar/wiki/Fonts) to fix it, and installed the required fonts. 
