@@ -13,7 +13,8 @@ But... a vanilla i3 installation only gets you so far. There are a few features 
 3) Screenshot utilities (Added some bindings in config). Mostly want fast selection screenshot to clipboard.
 4) Screen lock (i3lock + some imagemagic)
 5) Using peek for gifs, (finally works in i3 4.17.1 by default)
-6) Configure some applications to open in workspaces on startup.
+6) Deal with multiple screens and presenations on an external monitor.
+7) Configure some applications to open in workspaces on startup.
 
 ## Dependencies
 
