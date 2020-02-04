@@ -40,4 +40,4 @@ I will maybe add more things later.
 
 ## Polybar
 
-I'm testing out polybar, just using the vanillar installation for now.I just compiled it from source and it mostly works. The only issue was symbols/glyphs not appearing. I followed the instructions on the [wiki](https://github.com/polybar/polybar/wiki/Fonts) to fix it, and installed the required fonts. Note that `polybar.sh` has to be executable.
+I'm testing out polybar, just using the vanillar installation for now.I just compiled it from source and it mostly works. The only issue was symbols/glyphs not appearing. I followed the instructions on the [wiki](https://github.com/polybar/polybar/wiki/Fonts) to fix it, and installed the required fonts. Note that `polybar.sh` **has to be executable**.
