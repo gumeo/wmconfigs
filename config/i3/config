@@ -175,3 +175,6 @@ bindsym $mod+Shift+Print --release exec "mkdir -p ~/tmp; notify-send 'selection 
 # Use polybar
 exec_always --no-startup-id ~/.config/i3/polybar.sh &
 
+# Move workspace to next screen
+bindsym $mod+Shift+greater move container to output right
+bindsym $mod+Shift+less move container to output left
